@@ -1,5 +1,7 @@
 # GOVYX — AI Governance Brain
 
+**Core vision:** Build an intelligent digital layer for modern Ethiopian government operations. *Part of [Project ARWE](https://github.com/henokakriso).*
+
 ## Overview
 
 GOVYX is the **AI governance brain** of the ARWE ecosystem — a centralized,
